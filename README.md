@@ -67,7 +67,7 @@ https://github.com/rXchauhan/Enterprise-multi-VLAN-network/blob/b58e2c14e4c793fe
 ## Here are output of *before* and *after* ACL :-
 **before ACL in VLAN-40 to VLAN-10, 20 & 30**
 * *🎞️here⬇️*
-* 
+* https://github.com/rXchauhan/Enterprise-multi-VLAN-network/blob/323ed9782b9c670d79a2994cc76b0d84dfcf372a/Images/before%20ACL%20vlan%2040.png
 
 **After ACL in VLAN-40 to Vlan-10, 20 & 30**
 * *🎞️ here⬇️*
