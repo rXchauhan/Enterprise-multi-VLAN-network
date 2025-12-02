@@ -23,7 +23,8 @@
 | 40      |    Guest        |  192.168.40.0/24  |  192.168.40.1  |
 
 ## 🏗️ Network Diagram
-( add image here)🎞️🎞️
+**Output**
+
 
 ### 🪛 What I Configured
 
