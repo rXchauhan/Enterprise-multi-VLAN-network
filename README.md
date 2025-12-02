@@ -71,7 +71,7 @@ https://github.com/rXchauhan/Enterprise-multi-VLAN-network/blob/b58e2c14e4c793fe
 
 **After ACL in VLAN-40 to Vlan-10, 20 & 30**
 * *🎞️ here⬇️*
-* 
+* https://github.com/rXchauhan/Enterprise-multi-VLAN-network/blob/de04d7df6a17d7702ce801932d2146d0036b888c/Images/after%20ACL%20vlan%2040.png
 
 **ACL in VLAN-20 to VLAN-30**
 * *🎞️ here ⬇️*
