@@ -36,9 +36,8 @@
 * SVI interfaces with helper-address
 * ACL for HR & Guest isolation
 * ip routing enabled
-
-(L-3 Sswitch config photo)
-
+**Switch Configuration⬇️**
+https://github.com/rXchauhan/Enterprise-multi-VLAN-network/blob/64265abd155c1df8d36c0c499e65af8c7cc57952/Configs/L-3%20Switch.txt.txt
 
 **✔️ Router**
 
