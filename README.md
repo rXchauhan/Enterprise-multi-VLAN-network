@@ -24,7 +24,7 @@
 
 ## 🏗️ Network Diagram
 **Output**
-
+* https://github.com/rXchauhan/Enterprise-multi-VLAN-network/blob/2ce66c0358c6b4a4dc4653517b3f7a5a9149d393/Images/topology.png
 
 ### 🪛 What I Configured
 
