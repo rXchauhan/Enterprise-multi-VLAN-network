@@ -75,7 +75,14 @@ https://github.com/rXchauhan/Enterprise-multi-VLAN-network/blob/b58e2c14e4c793fe
 
 **ACL in VLAN-20 to VLAN-30**
 * *🎞️ here ⬇️*
-* 
+* https://github.com/rXchauhan/Enterprise-multi-VLAN-network/blob/11070c182e985ced9825a64b0e8908f40bb1c64e/Images/after%20ACL%20vlan20.png
+
+**Importent:-** 
+* Noticed that when you trying to ping from VLAN-40s host to other VLAN host there will be a message "host unreachable" , because of ACL is on interface VLAN-40 so when packets wants to go out from there(VLAN-40 outside) it will be drop ok.
+* And when other VLANs host trying to ping VLAN 40 it will also drop but there is differnce, the message is show like **requested timed out**.
+**Reason** because ping(ICMP) is a **ECHO** request !
+
+### and That's all !
 
 ## 🎯 Final Output Highlights
 * Full inter-VLAN routing
