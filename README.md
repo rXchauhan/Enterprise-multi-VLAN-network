@@ -64,6 +64,18 @@ https://github.com/rXchauhan/Enterprise-multi-VLAN-network/blob/b58e2c14e4c793fe
 * HR cannot access IT VLAN ❌
 * Everything else allowed ✔️
 
+## Here are output of *before* and *after* ACL :-
+**before ACL in VLAN-40 to VLAN-10, 20 & 30**
+* *🎞️here⬇️*
+* 
+
+**After ACL in VLAN-40 to Vlan-10, 20 & 30**
+* *🎞️ here⬇️*
+* 
+
+**ACL in VLAN-20 to VLAN-30**
+* *🎞️ here ⬇️*
+* 
 
 ## 🎯 Final Output Highlights
 * Full inter-VLAN routing
