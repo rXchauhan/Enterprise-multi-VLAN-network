@@ -36,8 +36,11 @@
 * SVI interfaces with helper-address
 * ACL for HR & Guest isolation
 * ip routing enabled
-**Switch Configuration⬇️**
+
+**Switch Configuration here ⬇️**
+
 https://github.com/rXchauhan/Enterprise-multi-VLAN-network/blob/64265abd155c1df8d36c0c499e65af8c7cc57952/Configs/L-3%20Switch.txt.txt
+
 
 **✔️ Router**
 
@@ -45,8 +48,9 @@ https://github.com/rXchauhan/Enterprise-multi-VLAN-network/blob/64265abd155c1df8
 * Static routes towards switch
 * Point-to-point link 10.10.10.0/30
 
- (router config photo )
+**Router Configuration here ⬇️**
 
+https://github.com/rXchauhan/Enterprise-multi-VLAN-network/blob/b58e2c14e4c793fe1fba51992b59f106887fc24e/Configs/R1%20Router.txt.txt
 
 
 ## 🔐 Access Control List
